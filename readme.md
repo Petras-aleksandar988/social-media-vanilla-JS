@@ -1,1 +1,1 @@
-Published: social-media-8a2c86.netlify.app
+Published:  social-media-8a2c86.netlify.app/
